@@ -20,17 +20,17 @@ Proyecto para el curso “Big Data y Tecnologías de la Información” de la UL
 
 ## Proceso ETL
 
-1️⃣ **Extracción**  
+1️. **Extracción**  
 Los conjuntos de datos utilizados son reportes que se descargan del sistema de ventas de inventario que utilizan las tiendas estudiadas.
 
-2️⃣ **Transformación**  
+2️. **Transformación**  
 - Conversión de la columna `Código` a texto.
 - Reemplazo de valores nulos por `0`.
 - Eliminación de filas vacías.
 - Estandarización de nombres de columnas y eliminación de columnas innecesarias.
 - Creación de columnas `Mes`, `MesNúmero` y `Total Ventas` para análisis cronológico.
 
-3️⃣ **Carga**  
+3️. **Carga**  
 Los datos consolidados se exportaron a un archivo único `BD_meses_consolidados.xlsx`, listo para su análisis, visualización y uso en el entrenamiento de un modelo de predicción.
 
 ## Herramientas utilizadas
