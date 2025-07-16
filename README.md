@@ -12,11 +12,11 @@ Proyecto para el curso “Big Data y Tecnologías de la Información” de la UL
 - Maritza Cruz Díaz 
 
 ## Contenido del Repositorio
-- `README.md`: Este documento. 
-- `datasets_originales/`: Archivos de Excel con los datos previos al proceso ETL de los primeros cinco meses de 2025.
-- `script_limpieza.py`: Script en Python para la limpieza inicial de los datos.
-- `proyecto_powerbi.pbix`: Archivo de Power BI con la preparación del conjunto de datos consolidado usando Power Query
-- `BD_meses_consolidados.xlsx`: Archivo de Excel con los datos limpios, estandarizados y consolidados (post proceso ETL).
+- `1. datos_originales/`: Incluye archivos de Excel con los datos previos al proceso ETL de los primeros cinco meses de 2025.
+- `2. script_limpieza.python/`: Incluye script en Python para la limpieza inicial de los datos.
+- `3. proyecto_powerbi_query`: Incluye archivo de Power BI con la preparación del conjunto de datos consolidado usando Power Query
+- `4. datos_consolidados_post_ETL/`: Incluye archivo de Excel con los datos limpios, estandarizados y consolidados (post proceso ETL).
+- `README.md`: Este documento.
 
 ## Proceso ETL
 
@@ -35,7 +35,7 @@ Los datos consolidados se exportaron a un archivo único `BD_meses_consolidados.
 
 ## Herramientas utilizadas
 
-- **Python** (pandas, matplotlib, seaborn) — para la limpieza inicial.
+- **Python** (pandas, matplotlib, seaborn) — para la limpieza inicial y posteriormente para la elaboración del modelo de predicción.
 - **Power Query** (Power BI) — para la consolidación y estandarización final.
 - **Power BI** — para el análisis y visualización de los datos
-- **Google Colab** ' para la elaboración del modelo de predicción utilizando Python
+- **Google Colab** ' para el desarrollo del modelo de predicción utilizando Python y librerías
