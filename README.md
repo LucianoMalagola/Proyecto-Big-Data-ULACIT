@@ -38,4 +38,4 @@ Los datos consolidados se exportaron a un archivo único `BD_meses_consolidados.
 - **Python** (pandas, matplotlib, seaborn) — para la limpieza inicial y posteriormente para la elaboración del modelo de predicción.
 - **Power Query** (Power BI) — para la consolidación y estandarización final.
 - **Power BI** — para el análisis y visualización de los datos
-- **Google Colab** ' para el desarrollo del modelo de predicción utilizando Python y librerías
+- **Google Colab** - para el desarrollo del modelo de predicción utilizando Python y librerías
