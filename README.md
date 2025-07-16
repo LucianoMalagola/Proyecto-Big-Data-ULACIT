@@ -31,7 +31,7 @@ Los conjuntos de datos utilizados son reportes que se descargan del sistema de v
 - Creación de columnas `Mes`, `MesNúmero` y `Total Ventas` para análisis cronológico.
 
 3️⃣ **Carga**  
-Los datos consolidados se exportaron a un archivo único `BD_meses_consolidados.xlsx`, listo para análisis y visualización en Power BI.
+Los datos consolidados se exportaron a un archivo único `BD_meses_consolidados.xlsx`, listo para su análisis, visualización y uso en el entrenamiento de un modelo de predicción.
 
 ## Herramientas utilizadas
 
