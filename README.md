@@ -1,7 +1,7 @@
 # Proyecto-Big-Data-ULACIT
 Proyecto para el curso “Big Data y Tecnologías de la Información” de ULACIT. ETL de datos de ventas con limpieza en Python, consolidación en Power Query y preparación para un análisis predictivo. Objetivo: optimización de inventarios, análisis predictivo de ventas y comparación de varianza de ventas entre 2024 y 2025.
 
-# Proyecto para el curso "Big Data y Tecnologías de la Información" - ULACIT
+# Proyecto para el curso "Big Data y Tecnologías de la Información"
 
 ## Integrantes del Grupo
 - Carolina Mena - Investigación Académica y Soporte en Análisis
