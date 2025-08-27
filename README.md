@@ -35,6 +35,6 @@ Los datos consolidados se exportaron a un archivo único `BD_meses_consolidados.
 
 ## Herramientas utilizadas
 
-- **Python** (pandas, os) — para la limpieza inicial.
+- **Python** (pandas, os) — para la limpieza inicial y registro de cambios.
 - **Power Query** (Power BI) — para la consolidación y estandarización final.
 - **Power BI** — para el análisis y visualización de los datos
