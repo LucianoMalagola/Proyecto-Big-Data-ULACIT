@@ -1,0 +1,105 @@
+
+Analizando: C:/Users/lmala/Desktop/Proyecto + Script Big Data/Abril.xlsx
+Columna 'Código' forzada a tipo texto.
+Se detectaron 22 valores faltantes en:
+   → Fila 5980, Columna 'Precio Venta'
+   → Fila 5981, Columna 'Precio Venta'
+   → Fila 5982, Columna 'Costo'
+   → Fila 5982, Columna 'Precio Venta'
+   → Fila 5983, Columna 'Costo'
+   → Fila 5983, Columna 'Precio Venta'
+   → Fila 17651, Columna 'Precio Venta'
+   → Fila 17652, Columna 'Precio Venta'
+   → Fila 22153, Columna 'Costo'
+   → Fila 22153, Columna 'Precio Venta'
+   → Fila 22154, Columna 'Costo'
+   → Fila 22154, Columna 'Precio Venta'
+   → Fila 22155, Columna 'Costo'
+   → Fila 22155, Columna 'Precio Venta'
+   → Fila 22156, Columna 'Costo'
+   → Fila 22156, Columna 'Precio Venta'
+   → Fila 22157, Columna 'Costo'
+   → Fila 22157, Columna 'Precio Venta'
+   → Fila 22158, Columna 'Costo'
+   → Fila 22158, Columna 'Precio Venta'
+   → Fila 27925, Columna 'Precio Venta'
+   → Fila 27926, Columna 'Precio Venta'
+Archivo limpio guardado como: C:/Users/lmala/Desktop/Proyecto + Script Big Data\limpieza\Abril_limpio.xlsx
+
+Analizando: C:/Users/lmala/Desktop/Proyecto + Script Big Data/Enero.xlsx
+Columna 'Código' forzada a tipo texto.
+Se detectaron 13 valores faltantes en:
+   → Fila 5847, Columna 'Precio Venta'
+   → Fila 5848, Columna 'Precio Venta'
+   → Fila 5850, Columna 'Precio Venta'
+   → Fila 11425, Columna 'Precio Venta'
+   → Fila 11426, Columna 'Precio Venta'
+   → Fila 11428, Columna 'Precio Venta'
+   → Fila 17079, Columna 'Precio Venta'
+   → Fila 17080, Columna 'Precio Venta'
+   → Fila 17082, Columna 'Precio Venta'
+   → Fila 27043, Columna 'Precio Venta'
+   → Fila 27060, Columna 'Precio Venta'
+   → Fila 27081, Columna 'Precio Venta'
+   → Fila 27082, Columna 'Precio Venta'
+Archivo limpio guardado como: C:/Users/lmala/Desktop/Proyecto + Script Big Data\limpieza\Enero_limpio.xlsx
+
+Analizando: C:/Users/lmala/Desktop/Proyecto + Script Big Data/Febrero.xlsx
+Columna 'Código' forzada a tipo texto.
+No se detectaron valores faltantes.
+Archivo limpio guardado como: C:/Users/lmala/Desktop/Proyecto + Script Big Data\limpieza\Febrero_limpio.xlsx
+
+Analizando: C:/Users/lmala/Desktop/Proyecto + Script Big Data/Marzo.xlsx
+Columna 'Código' forzada a tipo texto.
+Se detectaron 2 valores faltantes en:
+   → Fila 21432, Columna 'Costo
+USA'
+   → Fila 21432, Columna 'Precio Venta'
+Archivo limpio guardado como: C:/Users/lmala/Desktop/Proyecto + Script Big Data\limpieza\Marzo_limpio.xlsx
+
+Analizando: C:/Users/lmala/Desktop/Proyecto + Script Big Data/Mayo.xlsx
+Columna 'Código' forzada a tipo texto.
+Se detectaron 21 valores faltantes en:
+   → Fila 4, Columna 'Costo
+USA'
+   → Fila 58, Columna 'Costo
+USA'
+   → Fila 59, Columna 'Costo
+USA'
+   → Fila 60, Columna 'Costo
+USA'
+   → Fila 62, Columna 'Costo
+USA'
+   → Fila 63, Columna 'Costo
+USA'
+   → Fila 64, Columna 'Costo
+USA'
+   → Fila 65, Columna 'Costo
+USA'
+   → Fila 66, Columna 'Costo
+USA'
+   → Fila 1803, Columna 'Costo
+USA'
+   → Fila 2788, Columna 'Costo
+USA'
+   → Fila 4541, Columna 'Costo
+USA'
+   → Fila 8473, Columna 'Costo
+USA'
+   → Fila 12462, Columna 'Costo
+USA'
+   → Fila 12463, Columna 'Costo
+USA'
+   → Fila 12464, Columna 'Costo
+USA'
+   → Fila 15746, Columna 'Costo
+USA'
+   → Fila 16731, Columna 'Costo
+USA'
+   → Fila 17668, Columna 'Costo
+USA'
+   → Fila 25754, Columna 'Costo
+USA'
+   → Fila 25755, Columna 'Costo
+USA'
+Archivo limpio guardado como: C:/Users/lmala/Desktop/Proyecto + Script Big Data\limpieza\Mayo_limpio.xlsx
